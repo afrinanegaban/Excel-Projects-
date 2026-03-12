@@ -1,6 +1,6 @@
 ## sales-and-customer-insight-dashboard-excel
 # Project Background
-This project involved consolidating three relational datasets (Orders, Returns, and People) into a single interactive reporting suite. The goal was to build a functional tool that tracks key performance indicators (KPIs) and identifies regional sales trends over a 4-year period.
+This project involved consolidating three relational datasets (Orders, Returns, and People) into a single interactive dashboard. The goal was to build a functional tool that tracks key performance indicators (KPIs) and identifies regional sales trends over a 4 year period.
 
 ### Key Findings:
 * **Revenue Performance:** Total sales reached **$2.3M**, with Technology identified as the top-performing category ($836K).
