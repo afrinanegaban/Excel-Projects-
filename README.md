@@ -14,7 +14,7 @@ This project involved consolidating three relational datasets (Orders, Returns, 
 * Sales Growth:** Year-over-year analysis shows a steady upward trajectory, peaking at $733K in the final year **2017**.
 
 ### Visualization
-* Dashboard: Interactive Strategic Report (.xlsx) 🔗
+* [Dashboard Link](https://github.com/afrinanegaban/Excel-Projects-/blob/main/Sales%20and%20Customer%20Dashboard/Sales%20and%20Customer%20Trends%20Dashboard.xlsx) 
 
 <table style="width:100%">
 <tr>
